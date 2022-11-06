@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Alain Fleury Hatungimana and i go by @Hafgun
-- 👀 I’m interested in learning web programming technologies and articial intelligence.
+- 👀 I’m interested in learning web programming technologies and artificial intelligence related stuff.
 - 🌱 I’m currently learning Laravel Framework
 - 💞️ I’m looking to collaborate on any web project using java, php, c#, html&css&js&Ajax and Laravel
 - 📫 How to reach me: hafpixels06@gmail.com
