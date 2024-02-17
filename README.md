@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **a marketplace**
  
- 🌱 I’m currently learning **React Native, Supabase, AWS**
+ 🌱 I’m currently learning **React Native, Firebase, AWS**
 
  👀 I’m interested in learning web programming technologies and artificial intelligence related stuff.
 
@@ -54,7 +54,7 @@
 
 <hr/>
 
-<h2 align="center">📊 My ⚡ Stats ⚡</h2>
+<h2 align="center">📊 Github ⚡ Stats ⚡</h2>
 <br>
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Hafgun&count_private=true&theme=react&border_radius=10" alt="Hatungimana Alain Fleury's streak"/>
