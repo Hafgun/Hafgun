@@ -24,7 +24,7 @@
   <a href="mailto:hafpixels06@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
+  <a href="https://linkedin.com/in/Alain-Fleury-Hatungimana" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
 <!--   <a href="https://hafgun066.github.io" target="_blank"> -->
@@ -54,17 +54,22 @@
 
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">📊 My Github ⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats-hafgun.vercel.app/?user=hafgun&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-hafgun.vercel.app/api?username=hafgun&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Hafgun&count_private=true&theme=react&border_radius=10" alt="Hatungimana Alain Fleury's streak"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Hafgun&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=react&rank_icon=github&border_radius=10" alt="Hatungimana Alain Fleury's Github Stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats-hafgun.vercel.app/api/top-langs/?username=hafgun&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hafgun&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+    
 </div>
 
-<br/><br/>
+<br/>
+<br/>
 
 <hr/>
 
+[![](https://github-readme-activity-graph.vercel.app/graph?username=Hafgun&bg_color=060A0CD0&color=E6EDF3&line=00E7FF&point=00E7FF&area=true&hide_border=true)](https://github.com/Hafgun/github-readme-activity-graph)
+
+<br/>
 <br/>
