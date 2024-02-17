@@ -27,7 +27,7 @@
   <a href="https://linkedin.com/in/Alain-Fleury-Hatungimana" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-<!--   <a href="https://hafgun066.github.io" target="_blank"> -->
+<!--   <a href="https://hafgun.github.io" target="_blank"> -->
 <!--      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />  -->
 <!--   </a> -->
 </div>
@@ -38,7 +38,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=java,python,javascript,laravel,firebase,nextjs,mysql,django" /><br>
+    <img src="https://skillicons.dev/icons?i=java,python,javascript,laravel,flutter,nextjs,mysql,django" /><br>
 </div>
 
 <br/>
@@ -54,7 +54,7 @@
 
 <hr/>
 
-<h2 align="center">📊 My Github ⚡ Stats ⚡</h2>
+<h2 align="center">📊 My ⚡ Stats ⚡</h2>
 <br>
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Hafgun&count_private=true&theme=react&border_radius=10" alt="Hatungimana Alain Fleury's streak"/>
