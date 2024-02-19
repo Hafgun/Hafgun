@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
+ 🔭 I’m currently working on myself 😎
  
  🌱 I’m currently learning **React Native, Firebase, AWS**
 
@@ -38,7 +38,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=java,python,javascript,laravel,flutter,nextjs,mysql,django" /><br>
+    <img src="https://skillicons.dev/icons?i=java,python,javascript,laravel,nextjs,mysql,django" /><br>
 </div>
 
 <br/>
