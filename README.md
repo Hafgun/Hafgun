@@ -68,9 +68,11 @@
 <br/>
 <br/>
 
+<!--
 <hr/>
 
 [![](https://github-readme-activity-graph.vercel.app/graph?username=Hafgun&bg_color=060A0CD0&color=E6EDF3&line=00E7FF&point=00E7FF&area=true&hide_border=true)](https://github.com/Hafgun/github-readme-activity-graph)
 
 <br/>
 <br/>
+-->
